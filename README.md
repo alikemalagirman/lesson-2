@@ -1,4 +1,5 @@
 ## Lesson-2
+Ali kemal
 
 Creating our first component, homepage and adding scss to help us with writing our styles
 
